@@ -32,14 +32,7 @@ function promptUser() {
         type: "list",
         name: "license",
         message: "Chose the appropriate license for this project: ",
-        choices: [
-          "Apache",
-          "Academic",
-          "GNU/LGPL",
-          "ISC",
-          "MIT",
-          "Boost Software License",
-        ],
+        choices: ["Apache", "IBM", "GPL", "BSD", "MIT"],
       },
       {
         type: "input",
