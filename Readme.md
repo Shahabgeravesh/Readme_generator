@@ -3,9 +3,9 @@
 
 # Table Of Contents
 
-[Description](#description)
-[Installation](#installation)
-[Usage](#usage)
+*[Description](#description)
+*[Installation](#installation)
+*[Usage](#usage)
 [License](#license)
 [Contributers](#contributers)
 [Tests](#tests)
