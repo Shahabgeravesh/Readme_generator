@@ -6,21 +6,16 @@ function generateTemplate(data) {
 [![License](https://img.shields.io/badge/License-${data.license}--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![License: IPL 1.0](https://img.shields.io/badge/License-${data.license}-blue.svg)](https://opensource.org/licenses/IPL-1.0)
 
-
-
-
-
-
 #Table Of Contents 
-[Description](#description)
-[Installation](#installation)
-[Usage](#usage)
-[License](#license)
-[Contributers](#contributers)
-[Tests](#tests)
-[Issues](#issues)
-[Username](#username)
-[Email](#email)
+[Description](#description) <br />
+[Installation](#installation) <br />
+[Usage](#usage) <br />
+[License](#license) <br />
+[Contributers](#contributers) <br />
+[Tests](#tests) <br />
+[Issues](#issues) <br />
+[Username](#username) <br />
+[Email](#email) <br />
 
   ## Description
 ${data.description}
