@@ -3,15 +3,15 @@
 
 # Table Of Contents
 
-[Description](#description)
-[Installation](#installation)
-[Usage](#usage)
-[License](#license)
-[Contributers](#contributers)
-[Tests](#tests)
-[Issues](#issues)
-[Username](#username)
-[Email](#email)
+-[Description](#description)
+-[Installation](#installation)
+-[Usage](#usage)
+-[License](#license)
+-[Contributers](#contributers)
+-[Tests](#tests)
+-[Issues](#issues)
+-[Username](#username)
+-[Email](#email)
 
 ## Description
 
