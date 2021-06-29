@@ -3,19 +3,19 @@
 
 # Table Of Contents
 
--[Description](#description)
--[Installation](#installation)
--[Usage](#usage)
--[License](#license)
--[Contributers](#contributers)
--[Tests](#tests)
--[Issues](#issues)
--[Username](#username)
--[Email](#email)
+[Description](#description)
+[Installation](#installation)
+[Usage](#usage)
+[License](#license)
+[Contributers](#contributers)
+[Tests](#tests)
+[Issues](#issues)
+[Username](#username)
+[Email](#email)
 
 ## Description
 
-'In this project, the goal is to automate the Readme generation by using a command-line application. This allows the project creator to devote more time working on the project and has a structure for Readme.
+In this project, the goal is to automate the Readme generation by using a command-line application. This allows the project creator to devote more time working on the project and has a structure for Readme.
 
 ## Installation
 
