@@ -1,10 +1,5 @@
 # Readme Automatic Generator
 
-![GitHub license](https://img.shields.io/badge/license-No License-blue.svg)
-[![License: GPL v3](https://img.shields.io/badge/License-No License-blue.svg)]
-[![License: MIT](https://img.shields.io/badge/License-No License-yellow.svg)](https://opensource.org/licenses/MIT)
-[![License](https://img.shields.io/badge/License-No License--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-[![License: IPL 1.0](https://img.shields.io/badge/License-No License-blue.svg)](https://opensource.org/licenses/IPL-1.0)
 
 # Table Of Contents
 
