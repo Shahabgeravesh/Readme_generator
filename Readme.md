@@ -1,4 +1,4 @@
-# Readme Automatic Generator
+# Automatic Readme Generator
 
 
 # Table Of Contents
